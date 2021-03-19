@@ -18,7 +18,7 @@ django-rest-swagger==2.1.2
 django-storages==1.5.1
 django-toolbelt==0.0.1
 django-unixtimestampfield==0.3.9
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 ipython==5.1.0
 jsonfield==1.0.3
 numpy==1.14.4

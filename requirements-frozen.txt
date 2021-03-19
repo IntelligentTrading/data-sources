@@ -38,7 +38,7 @@ django-rest-swagger==2.1.2
 django-storages==1.5.1
 django-toolbelt==0.0.1
 django-unixtimestampfield==0.3.9
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 docutils==0.14
 entrypoints==0.2.3
 future==0.16.0
