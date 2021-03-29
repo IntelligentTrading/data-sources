@@ -88,7 +88,7 @@ protobuf==3.6.1
 psycopg2==2.7.5
 ptyprocess==0.6.0
 pycares==2.3.0
-Pygments==2.2.0
+Pygments==2.7.4
 pyparsing==2.2.2
 python-binary-memcached==0.26.1
 python-dateutil==2.6.0
