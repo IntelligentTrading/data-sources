@@ -7,7 +7,7 @@ ccxt==1.13.38
 decorator==4.0.10
 dj-database-url==0.4.1
 dj-static==0.0.6
-Django==2.2.13
+Django==2.2.20
 django-bmemcached==0.2.3
 django-cache-memoize==0.1.1
 django-cors-headers==2.3.0
